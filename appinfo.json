@@ -1,0 +1,14 @@
+{
+  "id": "com.provaltec.kds",
+  "version": "1.0.0",
+  "type": "web",
+  "main": "index.html",
+  "title": "Provaltec KDS",
+  "icon": "img/icon.png",
+  "largeIcon": "img/largeIcon.png",
+  "bgColor": "#ffffff",
+  "iconColor": "white",
+  "vendor": "provaltec",
+  "requiredMemory": 256,
+  "handlesPageVisibility": true
+}
