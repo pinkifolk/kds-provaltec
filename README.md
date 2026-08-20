@@ -8,6 +8,14 @@
 
 ---
 
+## 🖥️ Vista del tablero
+
+<p align="center">
+  <img src="img/captura.png" alt="Tablero Provaltec KDS en funcionamiento" width="800">
+</p>
+
+---
+
 ## 📋 ¿Qué hace?
 
 Muestra en pantalla dos columnas — **En proceso** y **Listo para retiro** — y va moviendo cada pedido según su avance, con un código de colores y una **alerta sonora** cuando un pedido queda listo.
