@@ -11,7 +11,7 @@
 ## 🖥️ Vista del tablero
 
 <p align="center">
-  <img src="img/captura.png" alt="Tablero Provaltec KDS en funcionamiento" width="800">
+<img width="1277" height="540" alt="Tablero Provaltec KDS en funcionamiento" src="https://github.com/user-attachments/assets/7ad4ad36-580f-4e7c-9aca-556a70538c53" />1
 </p>
 
 ---
